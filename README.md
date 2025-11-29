@@ -1,5 +1,8 @@
 # Temperature-Converter-in-php
 
+It's stage 1 in your PHP language learning journey
+
+project (4) : Temperature-Converter-in-php 
 
 Create a simple temperature converter that:
      User inputs:
